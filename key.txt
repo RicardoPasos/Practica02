@@ -1,0 +1,5 @@
+@echo off
+echo.
+echo Número de Serie: 20200401
+echo.
+pause
