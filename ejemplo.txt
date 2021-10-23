@@ -1,1 +1,2 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#!/bin/bash
+Siento que debo mejorar mis tiempos de entrega, pero considerando los visto en clase considero que no falto nada, sólo la práctica individial.
